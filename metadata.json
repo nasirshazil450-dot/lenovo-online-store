@@ -1,0 +1,6 @@
+{
+  "name": "Lenovo Online Store",
+  "description": "A premium online flagship store for Lenovo laptops, monitors, gaming gear, and accessories, styled after HP Flagship Store with direct inspiration from PC House Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
